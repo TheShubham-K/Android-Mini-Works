@@ -1,3 +1,3 @@
 # Android Basic Projects
 
-### This repository contants all basic android works
+### This repository contents all basic android works
