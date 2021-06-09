@@ -1,0 +1,2 @@
+rootProject.name = "Database_without_DBHelper"
+include ':app'

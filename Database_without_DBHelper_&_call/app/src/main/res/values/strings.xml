@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="name">name</string>
+    <string name="usn">USN</string>
+    <string name="phone_number">phone number</string>
+    <string name="insert">insert</string>
+    <string name="select">Select</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Database_without_DBHelper</string>
+    <string name="databse_without_dbhelper_class">Database without DBHelper class</string>
+    <string name="save">save</string>
+    <string name="id_to_call">id to call</string>
+    <string name="name">name</string>
+    <string name="usn">usn</string>
+    <string name="phone_number">phone number</string>
+    <string name="id_to_make_call">id to make call</string>
+</resources>

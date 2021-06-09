@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServicesMusic</string>
+    <string name="services_music">Services (Music)</string>
+    <string name="play">Play</string>
+    <string name="stop">stop</string>
+    <string name="color">color</string>
+</resources>
