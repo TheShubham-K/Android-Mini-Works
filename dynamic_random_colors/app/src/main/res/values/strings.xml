@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dynamic_random_colors</string>
+    <string name="dynamically_changing_background_color">dynamically changing background color</string>
+</resources>

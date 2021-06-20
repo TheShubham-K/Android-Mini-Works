@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contextmenuchangecolor</string>
+    <string name="green">GREEN</string>
+    <string name="red">RED</string>
+</resources>

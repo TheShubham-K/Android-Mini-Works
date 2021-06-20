@@ -1,0 +1,2 @@
+rootProject.name = "camera_img_set_background"
+include ':app'

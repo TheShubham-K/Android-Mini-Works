@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Menu_concept</string>
+    <string name="menu_inflater">menu Inflater</string>
+</resources>

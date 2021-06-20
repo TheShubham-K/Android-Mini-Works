@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sos</string>
+    <string name="title_activity_maps">Sos App</string>
+    <string name="get_location">Get Location</string>
+    <string name="location_display">Location Displayed Here ....</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+</resources>
