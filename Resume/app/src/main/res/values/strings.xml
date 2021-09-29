@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="name">Name:</string>
+    <string name="a_gmail_com">a@gmail.com</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="cs">CS</string>
+    <string name="is">IS</string>
+    <string name="ec">EC</string>
+    <string name="department">Department</string>
+    <string name="cgpa">CGPA:</string>
+    <string name="submit">Submit</string>
+    <string name="upload">UPLOAD</string>
+</resources>
